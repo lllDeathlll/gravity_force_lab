@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gravity_force_lab", "gravity_force_lab\gravity_force_lab.csproj", "{79C4E15F-BC31-4B14-8940-899DA58CFF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C4E15F-BC31-4B14-8940-899DA58CFF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C4E15F-BC31-4B14-8940-899DA58CFF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C4E15F-BC31-4B14-8940-899DA58CFF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C4E15F-BC31-4B14-8940-899DA58CFF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
